@@ -1,7 +1,7 @@
 # PYB
-Every module for changing boot graphics that i could find did absolutely nothing when installed with the exception of liveboot which replaces the system bootanimation loader. I'm at not sure if that is a Pixel issue or an Android issue however.
+Every module for changing boot graphics thatI could find did absolutely nothing when installed with the exception of liveboot which replaces the system boot animation loader. I'm honestly not sure if that is a Pixel issue or an Android issue however, I don't have any other phones to test on.
 
-If modules to customize your boot graphics have had no effrct perhaps this will solve your problems. If you know what you're doing you could just break this apart and use it as a template but if not don't worry, I plan on releasing a scripted builder within the next week or two.
+If modules to customize your boot graphics have had no effect, perhaps this will solve your problems.
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=
 
