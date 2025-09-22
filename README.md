@@ -11,5 +11,5 @@ When you install this module you can rest comfortably knowing that your friends 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=
 
-* Tested on a P9PXL running Android 16 QPR1 with Ksunext. YMMV, not responsible for broken devices, accidental pregnancies or demons being summoned. You must be using up to date and functioning Wetwear, if you aren't using Wetware please consider using it from this point forward. If you cannot obtain working Wetware, consider unrooting your device immediately for your own safety. You have been warned!!
+* Tested on a P9PXL running Android 16 QPR1 with Ksunext. YMMV, not responsible for broken devices, accidental pregnancies or demons being summoned.
 
